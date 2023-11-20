@@ -1,0 +1,40 @@
+{
+  "suggestions": [
+    {
+      "type": "Product",
+      "id": 239398,
+      "isbn": "9789506446994",
+      "value": "LA MUJER QUE SOY",
+      "url": "https://cuspide.com/producto/la-mujer-que-soy/",
+      "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/da4a2352-43bb-47cd-91ed-c7f70d77d7ac/9789506446994_9545757a-b92c-4550-a819-d4d2a2d538be.jpg",
+      "price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>&nbsp;8.999,00</bdi></span>"
+    },
+    {
+      "type": "Product",
+      "id": 149800,
+      "isbn": "9789506418113",
+      "value": "UNA HISTORIA DE LA VIDA EN EL CAPITALISMO",
+      "url": "https://cuspide.com/producto/una-historia-de-la-vida-en-el-capitalismo/",
+      "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f63f9b11-854d-45c2-b78d-9c1416df484d/3a12eca9-eaab-458e-8aae-ed46a882fe35.jpg",
+      "price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>&nbsp;14.500,00</bdi></span>"
+    },
+    {
+      "type": "Product",
+      "id": 74170,
+      "isbn": "9789874808073",
+      "value": "LAS OLAS",
+      "url": "https://cuspide.com/producto/las-olas-3/",
+      "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/7b1ebd54-28f4-4c43-8a8f-c5a56ef96bd2/9789874808073.jpg",
+      "price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>&nbsp;8.600,00</bdi></span>"
+    },
+    {
+      "type": "Product",
+      "id": 70433,
+      "isbn": "9789873831584",
+      "value": "A LA SALUD DE LOS MUERTOS .RELATOS DE QUIENES QUEDAN",
+      "url": "https://cuspide.com/producto/a-la-salud-de-los-muertos-relatos-de-quienes-quedan/",
+      "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/52523357-5fe9-4811-b0db-06b1d357322e/046e8f89-35dd-4d32-8d72-6d902cf0990b.jpg",
+      "price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>&nbsp;6.750,00</bdi></span>"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/build
+/dist
+
+# Archivos de registro
+/logs
+*.log
+
+# Archivos de configuración local
+.env
+
+# Archivos de respaldo
+*.bak
+*.swp
+*.tmp
+
+# Archivos de caché
+.cache
+
+# Archivos generados por herramientas de desarrollo
+/.idea
+/.vscode
+/.DS_Store
